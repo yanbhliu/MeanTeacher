@@ -26,6 +26,10 @@ we didn't include dataset, but after runing the following shell, three folders u
 ./data-local/bin/prepare_cifar10.sh
 ```
 
+### Architecture
+![Architecture](https://github.com/yanbhliu/MeanTeacher/blob/master/Plots/Mean_Teacher.png)
+
+
 ###  Accuracy Achieved on Test Dataset
 
 A step by step series of examples that tell you how to get a development env running
@@ -37,6 +41,7 @@ Mean Teacher
     a) Student Model : 79%
     b) Teacher Model : 80%
 ```
+![Plot of Accuracy](https://github.com/yanbhliu/MeanTeacher/blob/master/Plots/mt_plot.png)
 
 
 ## Running the Training 
