@@ -6,6 +6,8 @@ This Repo is the implementation of the following paper
 
 We used the Convlarge architecture to train Mean Teacher
 
+checkpoints are set after each epoch to save models and parameters. Ready for plot.
+
 
 ### versions we use:
 1. Pytorch 1.6.0
