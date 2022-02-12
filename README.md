@@ -9,7 +9,7 @@ We used the Convlarge architecture to train Mean Teacher
 
 ### versions we use:
 1. Pytorch 1.6.0
-2. Python 3.7.3 (<3.8)
+2. Python 3.7.3
 3. torchvision 0.7.0 
 4. cudatoolkit 10.2
 5. TensorboardX
