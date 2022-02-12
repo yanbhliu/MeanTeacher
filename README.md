@@ -66,7 +66,7 @@ Note that all the checkpoints are in the ./ckpt folder so simply start a tensorb
 ```
 
 ## Acknowledgments
-Our implementation has been inspired from the following source.
+This implementation has been modified based on the following source.
 
 * [Mean Teacher](https://github.com/iSarmad/MeanTeacher-SNTG-HybridNet) : We have mainly followed this Repo, but did necessary modification to make the code run on Python 3.7.x and the visualize the results graphically.
 
